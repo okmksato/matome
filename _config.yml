@@ -1,7 +1,16 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+# title: jekyll-rtd-theme
+# description: Just another documentation theme compatible with GitHub Pages
 
+# theme: null
+
+lang: "ja"
+title: 咲洲メガソーラー問題
+description: 上海電力咲洲メガソーラーの問題点をまとめています
+url: "https://okmksato.github.io/sakishima"
 theme: null
+
+twitter:
+  card: summary_large_image
 
 # debug:
 #   compress: true
