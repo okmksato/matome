@@ -1,7 +1,7 @@
 ---
 title: 議員でありながらネット上で一般人を脅します   
 category: 小坪氏の問題行動  
-order: 1  
+sort: 4
 site: okmksato  
 image: "../images/ogp-004-01.png"  
 ---

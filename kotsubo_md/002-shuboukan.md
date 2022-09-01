@@ -1,7 +1,7 @@
 ---
 title: 始まりは１枚の怪文書から始まった#小坪家の犯罪  
 category: 李 小龍（闇の猫力）@DragonCombo777  
-order: 1  
+sort: 2
 site: DragonCombo777
 image: "../images/ogp-002-01.png"  
 ---

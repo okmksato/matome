@@ -1,7 +1,7 @@
 ---
 title: 【ウイグルを応援する全国地方議員の会】について   
 category: MINO@MINO70635329  
-order: 1
+sort: 3
 site: MINO70635329  
 image: "../images/ogp-003-01.png"  
 ---
