@@ -1,8 +1,8 @@
 ---
 title: 上海電力咲洲メガソーラー問題
-sort: 
+sort: 3
 tw_site: okmksato
-tw_image: "docs/10-shanghai/images/ogp-shanghai.png"  
+tw_image: docs/10-shanghai/images/ogp-shanghai.png
 ---
 # 上海電力咲洲メガソーラー問題
 ![上海電力](images/ogp-shanghai.png)  
