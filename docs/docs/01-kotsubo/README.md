@@ -4,5 +4,5 @@ sort: 1
 
 ---
 
-# 小坪氏について
+# 小坪氏まとめ
 {% include list.liquid all=true %}
