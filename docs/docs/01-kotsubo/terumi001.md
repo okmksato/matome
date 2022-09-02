@@ -10,7 +10,7 @@ tw_image: "images/ogp-sato_totu.png"
 
 さとう てるみ[@terumi_satoh](https://twitter.com/terumi_satoh)
 
-** [凸っちゃおっかなー](https://blog.goo.ne.jp/terumi_satoh)  **
+**[凸っちゃおっかなー](https://blog.goo.ne.jp/terumi_satoh)**
 
 ネットを見てると、あれ？なんで？と思うことがあるので  
 凸してみることにしました。  
