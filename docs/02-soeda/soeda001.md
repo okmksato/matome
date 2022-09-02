@@ -1,12 +1,11 @@
 ---
 title: 添田詩織市議の一般質問に対する謝罪及び反省を求める決議について   
-category: 添田詩織泉南市議  
 sort: 1
-site: okmksato  
-image: "../images/soeda_01_ogp.png"  
+tw_site: okmksato  
+tw_image: "images/soeda_01_ogp.png"  
 ---
 # 添田詩織市議の一般質問に対する謝罪及び反省を求める決議について
-![添田市議の問題](../images/soeda_01_ogp.png)
+![添田市議の問題](images/soeda_01_ogp.png)
 
 
 2022年7月6日  
@@ -19,7 +18,7 @@ image: "../images/soeda_01_ogp.png"
 泉南市議会定例会での添田詩織議員の一般質問に対し、謝罪及び反省を求める決議関連資料  
 での『犯罪行為発言』に触れた箇所  
 
-[![決議文](../images/soeda_01_ketsugi.png)](images/ketsugi.png)
+[![決議文](images/soeda_01_ketsugi.png)](images/ketsugi.png)
 <br />
 
 2022年7月6日  

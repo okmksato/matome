@@ -4,12 +4,20 @@
 # theme: null
 
 lang: "ja"
-title: みんなのまとめ
-description: 行橋市議小坪氏の問題行動についてのまとめ
-url: "https://okmksato.github.io/kotsubo/"
+title: Matomeプラス
+description: twitterでのつぶやきを中心に色んな問題のまとめです
+url: "https://okmksato.github.io/matome/"
 theme: null
 twitter:
   card: summary_large_image
+
+previous: 前ページ
+next: 次ページ
+search_docs: 'サイト内検索...'
+
+search_results: '検索結果'
+search_results_found: '# ページ見つかりました'
+search_results_not_found: '一致するページは見つかりませんでした'
 
 # debug:
 #   compress: true
