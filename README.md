@@ -1,2 +1,2 @@
-# 小坪氏まとめ
+# みんなのまとめ
 {% include list.liquid all=true %}
