@@ -2,7 +2,7 @@
 title: 【ウイグルを応援する全国地方議員の会】について   
 sort: 
 tw_site: MINO70635329  
-twd_image: "images/ogp-003-01.png"  
+twd_image: images/ogp-003-01.png  
 ---
 
 # 【ウイグルを応援する全国地方議員の会】について  

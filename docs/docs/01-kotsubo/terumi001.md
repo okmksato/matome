@@ -2,7 +2,7 @@
 title: さとう てるみ - ブログ 凸っちゃおっかなー   
 sort: 
 tw_site: terumi_satoh  
-tw_image: "images/ogp-sato_totu.png"  
+tw_image: images/ogp-sato_totu.png  
 ---
 # さとう てるみ さんのブログ 凸っちゃおっかなー  
 
