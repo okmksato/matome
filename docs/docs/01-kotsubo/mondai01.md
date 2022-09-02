@@ -2,7 +2,7 @@
 title: 議員でありながらネット上で一般人を脅します   
 sort: 
 tw_site: okmksato  
-tw_image: images/ogp-004-01.png  
+tw_image: docs/01-kotsubo/images/ogp-004-01.png  
 ---
 
 # 議員でありながらネット上で一般人を脅します  
