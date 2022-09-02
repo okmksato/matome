@@ -2,7 +2,7 @@
 title: 添田詩織市議の一般質問に対する謝罪及び反省を求める決議について   
 sort: 1
 tw_site: okmksato  
-tw_image: images/soeda_01_ogp.png  
+tw_image: docs/02-soeda/images/soeda_01_ogp.png  
 ---
 # 添田詩織市議の一般質問に対する謝罪及び反省を求める決議について
 ![添田市議の問題](images/soeda_01_ogp.png)
