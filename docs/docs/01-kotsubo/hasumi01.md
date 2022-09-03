@@ -2,7 +2,7 @@
 title: はすみとしこの世界   
 sort: 
 tw_site: 
-tw_image: docs/01-kotsubo/images/ogp-sato_totu.png  
+tw_image: images/ogp-sato_totu.png  
 ---
 # はすみとしこの世界  
 ![sato_totu](images/ogp-hasumi.png)
