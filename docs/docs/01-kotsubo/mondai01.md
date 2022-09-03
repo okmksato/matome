@@ -4,7 +4,6 @@ sort:
 tw_site: okmksato  
 tw_image: images/ogp-004-01.png  
 ---
-
 # 議員でありながらネット上で一般人を脅します  
 
 ![一般人を脅します](images/ogp-004-01.png)
