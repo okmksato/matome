@@ -7,9 +7,7 @@ tw_image: docs/01-kotsubo/images/ogp-sato_totu.png
 # はすみとしこの世界  
 ![sato_totu](images/ogp-hasumi.png)
 
-はすみとしこさんのブログ『はすみとしこの世界』  
-
-[はすみとしこの世界](https://hasumi29430098.blog.fc2.com/)  
+[はすみとしこさんのブログ『はすみとしこの世界』](https://hasumi29430098.blog.fc2.com/)  
 
 [![はすみとしこの世界](images/hasumi_toshiko.jpg)](https://hasumi29430098.blog.fc2.com/)
 
