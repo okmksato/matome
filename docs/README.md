@@ -2,8 +2,8 @@
 title: Mtomeプラス
 sort: 1
 tw_site: 
-tw_image: ogp-matome.jpg  
+tw_image: images/ogp-matome.jpg  
 ---
 # Matomeプラス  
-![Matomeプラス](ogp-matome.jpg)  
+![Matomeプラス](images/ogp-matome.jpg)  
 {% include list.liquid all=true %}

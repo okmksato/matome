@@ -2,7 +2,7 @@
 title: 小坪氏まとめ
 sort: 1
 tw_site: terumi_satoh  
-tw_image: docs/01-kotsubo/images/ogp-kotsubo.png  
+tw_image: images/ogp-kotsubo.png  
 ---
 # 小坪氏まとめ
 
