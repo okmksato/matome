@@ -34,11 +34,9 @@ twd_image: images/ogp-003-01.png
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">「ウイグルを応援する全国地方議員の会」の件<br>↓（上下にスレッドがあります）<a href="https://t.co/BvNfiP6itf">https://t.co/BvNfiP6itf</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1554363135850840065?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--
-
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E8%A9%B1%E3%81%8C%E9%A3%9B%E3%81%B3%E3%81%BE%E3%81%99%E3%81%8C?src=hash&amp;ref_src=twsrc%5Etfw">#話が飛びますが</a>。未成年だが容赦しない？<br>人生を叩き潰すところまでやった？一家離散？<br>😱なにこれ、滅茶苦茶です。その子は大丈夫？<br>議員以前に大人のやる事ですか？<a href="https://t.co/jNLxmCoIgL">https://t.co/jNLxmCoIgL</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1554365284009791488?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+-->
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">140字以内で簡単に纏めるとこうなります。<a href="https://t.co/BJptksiXkx">https://t.co/BJptksiXkx</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1554374062067142659?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<!--
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">ぜひ、質問に答えて欲しい。<a href="https://t.co/1Qci3z62Gz">https://t.co/1Qci3z62Gz</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1554624532878528512?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 -->
