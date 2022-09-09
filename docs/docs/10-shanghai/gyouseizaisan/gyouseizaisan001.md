@@ -2,10 +2,10 @@
 title: 上海電力咲洲メガソーラーの土地は緑地予定の行政財産です  
 sort: 
 tw_site: okmksato
-tw_image: images/ogp-shanghai.png  
+tw_image: images/ogp-shanghai-gyouseizaisan.png  
 ---
 # 上海電力咲洲メガソーラーの土地は緑地予定の行政財産です  
-![行政財産](images/ogp-shanghai.png)
+![行政財産](images/ogp-shanghai-gyouseizaisan.png)
 
 ## 上海電力咲洲メガソーラーの土地は大阪市所有の『緑地』行政財産であり民間への貸出しは原則禁止されています
 
