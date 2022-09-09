@@ -1,11 +1,11 @@
 ---
-title: 咲洲メガソーラーは地方自治法違反
+title: 上海電力咲洲メガソーラーは地方自治法違反
 sort: 3
 tw_site: okmksato
-tw_image: images/ogp-shanghai.png
+tw_image: images/ogp-shanghai-tihoujiti-ihan.png
 ---
-# 咲洲メガソーラーは地方自治法違反
-![上海電力](images/ogp-shanghai.png)  
+# 上海電力咲洲メガソーラーは地方自治法違反
+![上海電力](images/ogp-shanghai-tihoujiti-ihan.png)  
 
 <iframe width="320" height="320" src="https://www.youtube.com/embed/-vepgN-1PkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
