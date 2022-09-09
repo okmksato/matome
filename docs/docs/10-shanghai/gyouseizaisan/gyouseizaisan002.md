@@ -2,10 +2,10 @@
 title: 行政財産を貸出す事ができる例外について    
 sort: 
 tw_site: okmksato
-tw_image: images/ogp-shanghai.png  
+tw_image: images/ogp-shanghai-gyouseizaisan-reigai.png  
 ---
 # 行政財産を貸出す事ができる例外について  
-![行政財産](images/ogp-shanghai.png)
+![行政財産](images/ogp-shanghai-gyouseizaisan-reigai.png)
 
 地方自治体の行政財産の管理に関するルールは  
 [地方自治法第二百三十八条の四（行政財産の管理及び処分）](https://elaws.e-gov.go.jp/document?lawid=322AC0000000067_20220601_503AC0000000050#Mp-At_238_4)で規定されています
