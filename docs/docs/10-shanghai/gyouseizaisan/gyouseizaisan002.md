@@ -1,6 +1,6 @@
 ---
 title: 行政財産を貸出す事ができる例外について    
-sort: 
+sort: 2
 tw_site: okmksato
 tw_image: images/ogp-shanghai-gyouseizaisan-reigai.png  
 ---

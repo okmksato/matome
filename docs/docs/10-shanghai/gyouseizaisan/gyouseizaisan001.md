@@ -1,13 +1,13 @@
 ---
 title: 上海電力咲洲メガソーラーの土地は緑地予定の行政財産です  
-sort: 
+sort: 1
 tw_site: okmksato
 tw_image: images/ogp-shanghai-gyouseizaisan.png  
 ---
 # 上海電力咲洲メガソーラーの土地は緑地予定の行政財産です  
 ![行政財産](images/ogp-shanghai-gyouseizaisan.png)
 
-## 上海電力咲洲メガソーラーの土地は大阪市所有の『緑地』行政財産であり民間への貸出しは原則禁止されています
+**上海電力咲洲メガソーラーの土地は大阪市所有の『緑地』行政財産であり民間への貸出しは原則禁止されています**
 
 地方自治体の財産に関するルールは
 
@@ -18,14 +18,14 @@ tw_image: images/ogp-shanghai-gyouseizaisan.png
 ⇒ 第九章 財務  
 ⇒ [第九節 財産](https://elaws.e-gov.go.jp/document?lawid=322AC0000000067#Mp-Pa_2-Ch_9-Se_9)
 
-[▼ 資料参照](#資料地方自治法第九節財産)
+[▼ 資料参照](#【資料】地方自治法第九節財産)
 
 <br />
 行政財産については鹿児島県薩摩川内市のホームページにわかりやすい解説があります
   
 鹿児島県薩摩川内市HP [公有財産（普通財産・行政財産）とは](https://www.city.satsumasendai.lg.jp/www/contents/1217826133671/index.html)  
 
-[▼ 資料参照](#資料鹿児島県薩摩川内市hp)
+[▼ 資料参照](#【資料】鹿児島県薩摩川内市HP)
 
 <br />
 **公有財産**は
@@ -57,7 +57,7 @@ tw_image: images/ogp-shanghai-gyouseizaisan.png
 - もし**普通財産**であれば民間であっても貸出す事ができます
 - もし**普通財産**であれば地方自治法の財産規定における問題は生じません
 
-ただし『普通財産であれば貸出自由』とはあくまでも地方自治法おける制約がないという事で  
+ただし『普通財産であれば貸出自由』とはあくまでも地方自治法における制約がないという事で  
 - [用途地域](https://www.city.osaka.lg.jp/toshikeikaku/page/0000005121.html)などの規制には従う必要があります  
 - 行政による貸出しですので、公募手続き、利用目的等はそれにふさわしいものが求められます
 
@@ -93,9 +93,9 @@ tw_image: images/ogp-shanghai-gyouseizaisan.png
 資料によっては、各自治体の条例や各省庁の法令、通知等が引用されていますが、地方自治法の解釈事例としてご理解願います
 
 <br />
-<hr />
+<hr id="【資料】地方自治法第九節財産" />
 
-## 【資料】地方自治法第九節財産
+**【資料】地方自治法第九節財産**
 
 地方自治法  
 ⇒ 第二編 普通地方公共団体  
@@ -106,9 +106,9 @@ tw_image: images/ogp-shanghai-gyouseizaisan.png
 ![地方自治法第九節財産](images/tihoujitihou-kouyu-gyousei-zaisan.png)  
 
 <br />
-<hr />
+<hr id="【資料】鹿児島県薩摩川内市HP" />
 
-## 【資料】鹿児島県薩摩川内市HP
+**【資料】鹿児島県薩摩川内市HP**
 
 鹿児島県薩摩川内市HP  
 [公有財産（普通財産・行政財産）とは](https://www.city.satsumasendai.lg.jp/www/contents/1217826133671/index.html)  
