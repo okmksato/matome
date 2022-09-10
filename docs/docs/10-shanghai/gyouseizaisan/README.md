@@ -7,9 +7,7 @@ tw_image: images/ogp-shanghai-tihoujiti-ihan.png
 # 上海電力咲洲メガソーラーは地方自治法違反
 ![上海電力](images/ogp-shanghai-tihoujiti-ihan.png)  
 
-<iframe width="320" height="320" src="https://www.youtube.com/embed/-vepgN-1PkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br />
-
+<iframe width="320" height="320" src="https://www.youtube.com/embed/fCAkk1fQXhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 動画ナレーション
 
 >咲洲（さきしま）、メガソーラーの土地は、緑地予定地で大阪市の行政財産です。  
