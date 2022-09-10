@@ -27,7 +27,7 @@ tw_image: images/ogp-shanghai-gyouseizaisan-reigai.png
 
 **次項（第二項）から第四項までに定めるもの**のうち第三項、第四項は事業継承についての記述ですので**第二項の第一号から第六号に定められた条件が行政財産を貸出す事ができる特例の条件**となります
 
-![第二百三十八条の四第二項](images/tihoujiti-238-4-2.png)
+[![第二百三十八条の四第二項](images/tihoujiti-238-4-2.png)](images/tihoujiti-238-4-2.png)
 
 名古屋市の**[『第4．公有財産の貸付及び目的外使用許可に関して』（PDFファイル）](https://www.city.nagoya.jp/kansa/cmsfiles/contents/0000032/32767/h23_hokatsu_honbun03.pdf)3ページ**では次のように分類されています
 
@@ -81,9 +81,9 @@ tw_image: images/ogp-shanghai-gyouseizaisan-reigai.png
 <br />
 財務省の[行政財産を貸付け又は使用許可する場合の取扱いの基準について](https://www.mof.go.jp/about_mof/act/kokuji_tsuutatsu/tsuutatsu/TU-19580107-0001-14.pdf)（PDF）10ページには**土地の供用の目的を効果的に達成することに資すると認められるもの**として
 
->⑴ 空港ターミナルビル
-⑵ 国立公園内の集団施設地区の宿泊施設
-⑶ 堅固な電気施設（配電塔や地中埋設管)など
+>⑴ 空港ターミナルビル  
+⑵ 国立公園内の集団施設地区の宿泊施設  
+⑶ 堅固な電気施設（配電塔や地中埋設管)など  
 
 などが例示されています  
 （3）の電気施設についてはあくまでも施設を維持していく上で必要な施設です
