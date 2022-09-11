@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.markdown-body h2 a{
+  color: #ffb;
+  text-decoration: none;
+}
+
+.markdown-body h2 a:hover{
+  color: #0ff;
+}
+
