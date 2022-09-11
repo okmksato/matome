@@ -1,12 +1,12 @@
 ---
-title: 行橋市議小坪慎也議員まとめ「自民党推薦」は自称だった！
+title: 行橋市議小坪慎也議員まとめ「自民党推薦」は自称？
 sort: 
 tw_site:
 tw_image: images/recommend_ogp.png  
 ---
 <div class="main-title">
 <div class="main-text">
-<h1>小坪慎也氏（行橋市議）の「自民党推薦」は自称だった！</h1>
+<h1>小坪慎也氏（行橋市議）の「自民党推薦」は自称？</h1>
 </div>
 </div>
 
