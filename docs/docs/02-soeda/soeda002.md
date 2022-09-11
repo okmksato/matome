@@ -7,6 +7,8 @@ tw_image: images/ogp-soeda-line.png
 # 添田詩織市議にお尋ねします、LINEはどうすればいいの？
 ![添田市議の問題](images/ogp-soeda-line.png)
 
+[@okmksato](http://twitter.com/okmksato/)
+
 2022年8月1日添田詩織議員のツイートを見て目を疑いました
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Facebookページも２つ、謎の中国語のアカウントに乗っ取られ、LINEも何者かによってログインされそうになりました。<br>LINEは最近、中国人名義のアカウントから勝手に追加やグループに追加されたりしており、警戒していた矢先でした。そろそろLINEは卒業しなければ。 <a href="https://t.co/TZJtTcIuAc">pic.twitter.com/TZJtTcIuAc</a></p>&mdash; 添田詩織🇯🇵 (@soedashiori) <a href="https://twitter.com/soedashiori/status/1554084460542701570?ref_src=twsrc%5Etfw">August 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
