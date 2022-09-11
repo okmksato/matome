@@ -1,0 +1,121 @@
+@charset "UTF-8";
+
+/*---------- フォント ----------*/
+.markdown-body{font-family: Verdana, sans-serif ;}
+
+.markdown-body h2{
+  font-size: 1.2rem;
+  color : #FFF;
+  background: #2980B9;
+  margin: 40px 0 25px 0;
+  padding: 12px 15px 14px 20px;
+}
+.markdown-body h3{
+  font-size: 1.2rem;
+  color : #2980B9;
+  margin: 40px 0 25px 0;
+}
+.markdown-body h2 + h3{margin-top: 25px;}
+
+p{margin: 15px 0 15px 0;}
+
+/*---------- カラー ----------*/
+.red{color: #F00;}
+
+.marker-yellow{background:linear-gradient(transparent 60%, #ff6 60%);}
+
+/*---------- マージンn ----------*/
+.mt15{margin-top: 15px !important;}
+.mt20{margin-top: 20px !important;}
+.mt30{margin-top: 30px !important;}
+
+/*---------- リスト ----------*/
+.markdown-body ol{
+  border: solid 1px #CCC; 
+  background: #F8F8F8;
+  margin: 25px 0 30px 0;
+  padding:20px;
+}
+.markdown-body ol li{margin-left: 25px;}
+.markdown-body ul{margin: 25px 0;}
+
+/*---------- アイコン＆ボックス ----------*/
+.icon-blue{
+  font-size: 0.9rem;
+  color: #FFF;
+  background: #2980B9;
+  border-radius: 15px;
+  margin-right: 5px;
+  padding: 6px 14px;
+}
+
+.box-blue-border{
+  border: solid 1px #2980B9;
+  margin: 25px 0 25px 0;
+  padding:20px;
+}
+
+/*---------- ページタイトル ----------*/
+.main-title{
+  max-width: 918px;
+  position: relative;
+  top: 0;
+  background: url("../docs/01-kotsubo/images/title_bg_pc.png") #1D9BF0 no-repeat left bottom;
+  background-size: contain;
+  margin: 15px 0 60px 0;
+  }
+.main-text{
+  margin: 0 5% 0 300px;
+  padding-top: 40px;
+  }
+.markdown-body .main-title h1{
+  font-size: 2.3rem;
+  color: #FFF;
+  line-height: 1.4;
+  border-bottom: none;
+  margin-bottom: 15px;
+  }
+.main-text .sub-titile{
+  font-size: 1.6rem;
+  color: #2980B9;
+  background: #FFF;
+  display:inline-block;
+  padding: 7px 20px;
+}
+
+p + twitter-tweet{margin-bottom: 25px;}
+
+.navigation-bottom{margin-top: 50px;}
+
+/*-------------------------PC-------------------------*/
+@media screen and (min-width:1050px){
+  
+  .main-title{height: 300px;}
+  
+} /* PC閉じ */
+
+/*-------------------------SP-------------------------*/
+@media screen and (max-width:1049px){
+  
+  .main-title{
+    min-height: 170px;
+    background: url("../docs/01-kotsubo/images/title_bg_sp.png") #1D9BF0 no-repeat left bottom;
+    background-size: contain;
+    margin-bottom: 35px;
+    padding-bottom: 10px;
+  }
+  .main-text{
+    margin: 20px 6% 0 6%;
+    padding-top: 15px;
+  }
+  .markdown-body .main-title h1{
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  .main-text .sub-titile{
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    padding: 6px 15px;
+    }
+  
+} /* SP閉じ */
