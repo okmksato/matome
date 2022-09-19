@@ -66,7 +66,7 @@ tw_image: images/recommend_ogp.png
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">党の中の地域支部の推薦状は簡単に言えば老人会とか自治会の推薦状に近いそうです。<br>地域支部ごとに会議手法が違うのでどうやって推薦出してるかは知らない。<br>会議が年一回くらいしかない幽霊みたいな地域支部も全国にはある。行橋の事は知りません。だそうです。</p>&mdash; もふもふ (@origin_0023) <a href="https://twitter.com/origin_0023/status/1564961987972722688?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja" style="margin-bottom:40px;"><p lang="ja" dir="ltr">大事な事は自民党議員を名乗るなら、その市町や市町議会において自民党議員としての仕事をきちんとしているか？<br>その職責を果たしているか？<br>という事も説明を受け、なるほどと思った次第です。<br><br>福岡県自民党政策集もございますし。<a href="https://t.co/woPVSstZyQ">https://t.co/woPVSstZyQ</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1564970807574401026?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">当然ですね！<br>私も、大阪府連では、様々な役職についてました。<br>今は、浪人中ですが、幾つかの役職は、残ってるので、仕事をしてます。</p>&mdash; 田中がく@前貝塚市議会議員 (@tanakagaku_net) <a href="https://twitter.com/tanakagaku_net/status/1564972364588204032?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### 4-1. まとめ  
   * 小坪議員の推薦状は正式な様式と全く異なる（自作した推薦状に一般人である支部長サインをもらっただけ）。  
