@@ -96,9 +96,9 @@
 
 <hr />
 
-プールに限らず、文部省の指針等がマニュアルとなっていると思います
+## [文部科学省 公立学校の施設整備](https://www.mext.go.jp/a_menu/shotou/zyosei/main11_a2.htm)
 
-[文部科学省 公立学校の施設整備](https://www.mext.go.jp/a_menu/shotou/zyosei/main11_a2.htm)
+プールに限らず、文部省の指針等がマニュアルとなっていると思います
 
 [文部科学省 公立学校施設の老朽化対策の推進](https://www.mext.go.jp/a_menu/shotou/zyosei/1334433.htm)
 
