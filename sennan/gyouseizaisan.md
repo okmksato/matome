@@ -1,6 +1,6 @@
 # 泉南市の学校プール廃止について
 
-[泉南市公有財産規則](https://en3-jg.d1-law.com/sennan/d1w_reiki/H359902100005/H359902100005.html)
+## [泉南市公有財産規則](https://en3-jg.d1-law.com/sennan/d1w_reiki/H359902100005/H359902100005.html)
 
 [第2節 行政財産](https://en3-jg.d1-law.com/sennan/d1w_reiki/H359902100005/H359902100005_j.html#h:hK30:::1:0.0.0-3.0.0-2.0.0-0.0-0.0:1:)
 
@@ -44,7 +44,7 @@
 
 <hr />
 
-[文部科学省『複合化公立学校施設ＰＦＩ事業のための手引書』](https://www.mext.go.jp/a_menu/shotou/zyosei/04073001.htm#mokuji)
+## [文部科学省『複合化公立学校施設ＰＦＩ事業のための手引書』](https://www.mext.go.jp/a_menu/shotou/zyosei/04073001.htm#mokuji)
 
 (５)	 	公立学校施設に係る法制度上の留意事項
 
@@ -76,7 +76,7 @@
 
 <br />
 
-[地方教育行政の組織及び運営に関する法律](https://elaws.e-gov.go.jp/document?lawid=331AC0000000162_20220518_504AC0000000040)
+## [地方教育行政の組織及び運営に関する法律](https://elaws.e-gov.go.jp/document?lawid=331AC0000000162_20220518_504AC0000000040)
 
 第三章　教育委員会及び地方公共団体の長の職務権限
 
