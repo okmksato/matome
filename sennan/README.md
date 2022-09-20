@@ -1,4 +1,4 @@
 [泉南市の学校プール廃止について](https://github.com/okmksato/matome/blob/main/sennan/gyouseizaisan.md)  
-- 泉南市公有財産規則 行政財産
-- 文部科学省『複合化公立学校施設ＰＦＩ事業のための手引書』
-- 地方教育行政の組織及び運営に関する法律 第三章　教育委員会及び地方公共団体の長の職務権限
+- [泉南市公有財産規則 行政財産](https://github.com/okmksato/matome/blob/main/sennan/gyouseizaisan.md#%E6%B3%89%E5%8D%97%E5%B8%82%E5%85%AC%E6%9C%89%E8%B2%A1%E7%94%A3%E8%A6%8F%E5%89%87)
+- [文部科学省『複合化公立学校施設ＰＦＩ事業のための手引書』](https://github.com/okmksato/matome/blob/main/sennan/gyouseizaisan.md#%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81%E8%A4%87%E5%90%88%E5%8C%96%E5%85%AC%E7%AB%8B%E5%AD%A6%E6%A0%A1%E6%96%BD%E8%A8%AD%EF%BD%90%EF%BD%86%EF%BD%89%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%89%8B%E5%BC%95%E6%9B%B8)
+- [地方教育行政の組織及び運営に関する法律 第三章　教育委員会及び地方公共団体の長の職務権限](https://github.com/okmksato/matome/blob/main/sennan/gyouseizaisan.md#%E5%9C%B0%E6%96%B9%E6%95%99%E8%82%B2%E8%A1%8C%E6%94%BF%E3%81%AE%E7%B5%84%E7%B9%94%E5%8F%8A%E3%81%B3%E9%81%8B%E5%96%B6%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B)
