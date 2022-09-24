@@ -2,7 +2,7 @@
 title: 納税証明書は提出できたのに、日光エナジーの納税証明書提出が恣意的に免除されました
 sort: 
 tw_site: okmksato
-tw_image: images/ogp-shanghai-tihoujiti-ihan.png
+tw_image: images/ogp-nouzei.png
 ---
 # 納税証明書は提出できたのに、日光エナジーの納税証明書提出が恣意的に免除されました
   
