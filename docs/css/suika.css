@@ -9,6 +9,7 @@
   background: #2980B9;
   margin: 40px 0 25px 0;
   padding: 12px 15px 14px 20px;
+  display: block;
 }
 .markdown-body h3{
   font-size: 1.2rem;
@@ -22,12 +23,19 @@ p{margin: 15px 0 15px 0;}
 /*---------- カラー ----------*/
 .red{color: #F00;}
 
+/*---------- 装飾 ----------*/
 .marker-yellow{background:linear-gradient(transparent 60%, #ff6 60%);}
 
-/*---------- マージンn ----------*/
+.border{border: solid 1px #CCC;}
+
+/*---------- マージン ----------*/
 .mt15{margin-top: 15px !important;}
 .mt20{margin-top: 20px !important;}
 .mt30{margin-top: 30px !important;}
+
+.ml15{margin-left: 15px !important;}
+
+.mb15{margin-bottom: 15px !important;}
 
 /*---------- リスト ----------*/
 .markdown-body ol{
@@ -52,7 +60,32 @@ p{margin: 15px 0 15px 0;}
 .box-blue-border{
   border: solid 1px #2980B9;
   margin: 25px 0 25px 0;
-  padding:20px;
+  padding: 20px;
+}
+
+blockquote.box-quote{
+  position: relative;
+  border-left: 3px solid #52A5D8;
+  margin: 50px 40px;
+  padding-left: 30px;
+}
+blockquote.box-quote:before{
+  content: '\f10d';
+  font-family: 'FontAwesome';
+  font-size: 20px;
+  color: #52A5D8;
+  margin-right: 10px;
+}
+blockquote.box-quote p{
+  position: relative;
+  color: #555;
+  padding-left: 30px;
+}
+blockquote.box-quote cite{
+  display: block;
+  font-size: 0.85rem;
+  text-align: right;
+  color: #52A5D8;
 }
 
 /*---------- ページタイトル ----------*/
