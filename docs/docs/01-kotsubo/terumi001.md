@@ -1,6 +1,6 @@
 ---
 title: さとう てるみ - ブログ 凸っちゃおっかなー   
-sort: 
+sort: 5
 tw_site: terumi_satoh  
 tw_image: images/ogp-sato_totu.png  
 ---

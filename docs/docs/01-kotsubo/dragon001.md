@@ -1,6 +1,6 @@
 ---
 title: 李 小龍（闇の猫力）- 始まりは１枚の怪文書から始まった#小坪家の犯罪  
-sort: 
+sort: 4
 tw_site: DragonCombo777
 tw_image: images/dragon_01_ogp.png  
 ---
