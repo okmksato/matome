@@ -1,6 +1,6 @@
 ---
 title: 川井 正彦さんブログ - 百話騒乱    
-sort: 
+sort: 7
 tw_site: fdIj1ul1Lln0MyN
 tw_image: images/ogp-kawai.png  
 ---
