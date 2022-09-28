@@ -1,5 +1,5 @@
 ---
-title: Mtomeプラス
+title: Matomeプラス
 sort: 1
 tw_site: 
 tw_image: images/ogp-matome.jpg  
