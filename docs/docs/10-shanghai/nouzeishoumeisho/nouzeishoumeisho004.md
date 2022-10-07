@@ -4,7 +4,7 @@ sort:
 tw_site: okmksato
 tw_image: images/matsui-uso-2.png
 ---
-# 『届出制に問題があった』は松井市長の真っ赤なウソ - まともな『届出』はされていませ  
+# 『届出制に問題があった』は松井市長の真っ赤なウソ - まともな『届出』はされていません  
   
 ![届出制はウソ](images/matsui-uso-2.png)  
 
