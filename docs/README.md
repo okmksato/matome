@@ -65,3 +65,8 @@ https://reffect.co.jp/html/create_github_account_first_time
 
 Teamでなく  
 **Free**を選択してください
+
+アカウント削除はいつでも簡単にできます
+
+アカウント削除は[こちら](deleteaccount)
+
