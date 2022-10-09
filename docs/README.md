@@ -68,5 +68,5 @@ Teamでなく
 
 ## アカウント削除はいつでも簡単にできます
 
-アカウント削除は[こちら](deleteaccount.md)
+アカウント削除は[こちら](https://github.com/okmksato/matome/blob/main/deleteaccount.md)
 
