@@ -84,6 +84,16 @@ tw_image: images/matsui-uso-2.png
 
 <hr />
 
+[2022-10-10 追加]  
+合同会社の役員については以下のサイトを参考にしてください  
+
+[freee株式会社 合同会社の「代表社員」は複数いてもいい？  
+業務執行社員との違いも詳しく解説 - 業務執行社員と代表社員の位置づけ](https://www.freee.co.jp/kb/kb-launch/representative-partner/#content2-2)
+
+『合同会社　咲洲メガソーラ「大阪ひかりの泉」プロジェクト』は『業務執行社員が複数いる場合』があてはまります
+
+<hr />
+
 **資料**  
 [大阪市会録画配信 建設港湾委員会 令和4年6月10日午後1時資料](http://osaka.gijiroku.com/g07_Video2_View.asp?SrchID=1793)  
 [添付資料前田和彦委員配付資料 (PDF 3,260KB)](http://osaka.gijiroku.com/voices/GikaiDoc/attach/Nittei/Nt1792_20220610maeda.pdf)
