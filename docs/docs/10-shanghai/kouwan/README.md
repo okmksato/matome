@@ -1,6 +1,6 @@
 ---
 title: 臨港地区修景厚生港区に設置された上海電力咲洲メガソーラーは港湾法違反です  
-sort: 3  
+sort: 1  
 tw_site: okmksato
 tw_image: images/ogp-kouwan-main.png
 ---

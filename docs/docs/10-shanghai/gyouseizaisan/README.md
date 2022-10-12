@@ -1,6 +1,6 @@
 ---
 title: 上海電力咲洲メガソーラーは地方自治法違反
-sort: 1
+sort: 2
 tw_site: okmksato
 tw_image: images/ogp-shanghai-tihoujiti-ihan.png
 ---
