@@ -1,6 +1,6 @@
 ---
 title: 信和工業と日光エナジーの入札は不正入札です
-sort: 3
+sort: 2
 tw_site: okmksato
 tw_image: images/ogp-shanghai-tihoujiti-ihan.png
 ---
